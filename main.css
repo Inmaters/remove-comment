@@ -1,12 +1,12 @@
 body {
     background-color: bisque;
 }
+
 .content {
     position: absolute;
     top: 60px;
     left: 50%;
     transform: translate(-50%, 0);
-    
 }
 
 .find_file {
@@ -22,7 +22,7 @@ p {
 
 
 .changeFile {
-    margin-top: 40px !important;
+    margin-top: 40px;
 }
 
 .results {
